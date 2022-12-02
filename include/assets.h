@@ -1,0 +1,10 @@
+#define TEXTURE_PLAYER      "./assets/sprites/player.png"
+#define TEXTURE_MINES       "./assets/sprites/mines.png"
+#define TEXTURE_LOGO        "./assets/sprites/logo.png"
+#define TEXTURE_PAUSE       "./assets/sprites/pause.png"
+#define TEXTURE_PLAY        "./assets/sprites/play.png"
+#define TEXTURE_MINE_LAYER  "./assets/sprites/mine_layer.png"
+
+#define SFX_SHOOT       "./assets/sounds/shoot.ogg"
+#define SFX_EXPLOSION   "./assets/sounds/explosion.ogg"
+#define SFX_TP          "./assets/sounds/warp.ogg"

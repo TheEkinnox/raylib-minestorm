@@ -1,0 +1,5 @@
+.vscode/
+[Bb]uild/
+*.o
+*.d
+libmy.a
